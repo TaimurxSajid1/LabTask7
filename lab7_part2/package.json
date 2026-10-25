@@ -1,0 +1,12 @@
+{
+  "name": "lab7-part2-ecommerce-persistent-api",
+  "version": "1.0.0",
+  "description": "Lab 7 Part 2 - VERIDIAN E-Commerce Store (Lab 3) Persistent API - Taimur Sajid (241839)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-client.js"
+  },
+  "author": "Taimur Sajid - 241839",
+  "license": "ISC"
+}

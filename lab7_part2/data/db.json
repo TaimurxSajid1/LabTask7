@@ -1,0 +1,105 @@
+{
+  "users": [],
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Monolith Architectural Zinc Planter",
+      "category": "planters",
+      "price": 185,
+      "originalPrice": 215,
+      "rating": 4.9,
+      "reviewsCount": 38,
+      "stock": 12,
+      "description": "Cold-patinated solid zinc alloy vessel engineered with internal root aeration channels."
+    },
+    {
+      "id": "prod-2",
+      "name": "Verdant Luminaire Desk Lamp No. 04",
+      "category": "lighting",
+      "price": 240,
+      "originalPrice": 280,
+      "rating": 5,
+      "reviewsCount": 29,
+      "stock": 8,
+      "description": "Precision-milled matte zinc-green body with spun solid brass accents."
+    },
+    {
+      "id": "prod-3",
+      "name": "Cold-Pressed Conifer Botanical Essence (50ml)",
+      "category": "botanicals",
+      "price": 88,
+      "rating": 4.8,
+      "reviewsCount": 46,
+      "stock": 24,
+      "description": "Wild-harvested subalpine fir, hinoki cypress, and cold-pressed juniper berry in organic squalane."
+    },
+    {
+      "id": "prod-4",
+      "name": "Prism Faceted Terrarium Vessel",
+      "category": "vessels",
+      "price": 160,
+      "rating": 4.9,
+      "reviewsCount": 35,
+      "stock": 14,
+      "description": "Faceted geometric biosphere built with hand-soldered weathered zinc metal seams."
+    },
+    {
+      "id": "prod-5",
+      "name": "Cast Zinc Botanical Mist Nebulizer",
+      "category": "botanicals",
+      "price": 125,
+      "originalPrice": 145,
+      "rating": 4.7,
+      "reviewsCount": 19,
+      "stock": 16,
+      "description": "Solid zinc-weighted pneumatic fine-droplet plant mister."
+    },
+    {
+      "id": "prod-6",
+      "name": "Architectural Zinc Horizon Incense Monolith",
+      "category": "vessels",
+      "price": 74,
+      "rating": 4.9,
+      "reviewsCount": 52,
+      "stock": 20,
+      "description": "Minimalist 30cm extruded zinc incense burner tray with integrated magnetic ash collector."
+    }
+  ],
+  "carts": {},
+  "orders": [],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "productId": "prod-1",
+      "author": "Elena Rostova",
+      "rating": 5,
+      "date": "2026-03-14",
+      "verified": true,
+      "title": "Flawless weight and exquisite patina finish",
+      "comment": "The Monolith Zinc Planter exceeded every expectation.",
+      "helpful": 24
+    },
+    {
+      "id": "rev-2",
+      "productId": "prod-2",
+      "author": "Marcus Vance",
+      "rating": 5,
+      "date": "2026-02-28",
+      "verified": true,
+      "title": "The Verdant Luminaire is an heirloom work",
+      "comment": "The brass touch dial responsiveness and the deep matte zinc chassis give it an unmatched presence.",
+      "helpful": 19
+    },
+    {
+      "id": "rev-3",
+      "productId": "prod-3",
+      "author": "Sora Takahashi",
+      "rating": 5,
+      "date": "2026-01-19",
+      "verified": true,
+      "title": "True sensory luxury with conifer depth",
+      "comment": "The Hinoki and subalpine notes in the Conifer Essence are remarkably authentic.",
+      "helpful": 15
+    }
+  ]
+}
